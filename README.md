@@ -1,4 +1,4 @@
-# Final Project-Cinema Booking System
+# Cinema Booking System
 	
 The Cinema Booking System is a software project designed to automate the cinema booking process, implemented using Java, Python, and C++ to demonstrate the versatility and functionality of these programming languages. The system enables users to book seats for movies, selecting their preferred date and time slot through a user-friendly interface. This project is developed as a school project for the subject Programming Logic and Design.
 
